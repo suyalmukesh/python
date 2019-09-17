@@ -21,6 +21,7 @@ if __name__=='__main__':
         for k,m in range(j),str:
             ar.append(int(str))
 
+
         print(ar)
         ind = pileup(ar)
         print("Yes" if ind == 0 else "No")
