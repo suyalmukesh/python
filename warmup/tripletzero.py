@@ -5,7 +5,7 @@ lst = []
 #for i in range(int(input())):
  #   lst.append(int(input()))
 
-lst = [i for i in range(-98,500)]
+lst = [i for i in range(-98, 500)]
 start_time = time.time()
 count = 0
 n = len(lst)
