@@ -25,7 +25,7 @@ arr2 = arr2.reshape((n,m))
 
 print(numpy.array(arr1+arr2))
 print(arr1-arr2)
-print(arr1*arr2)
+print(arr1*arr2 )
 print(arr1//arr2)
 print(arr1%arr2)
 print(arr1**arr2)
